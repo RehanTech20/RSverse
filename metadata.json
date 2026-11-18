@@ -1,0 +1,6 @@
+{
+  "name": "RSverse — Two Players. One Universe.",
+  "description": "A private online multiplayer gaming universe for two players to connect, play 9 real-time games, chat, and preserve shared memories.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
